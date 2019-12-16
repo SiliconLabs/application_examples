@@ -17,9 +17,9 @@ Silicon Labs EFR parts support the use of proprietary wireless protocols. Propri
 
 ## Submodules ##
 
--proprietary_connect
+- proprietary_connect
   - All proprietary examples based on the Connect stack.
--proprietary_rail
+- proprietary_rail
   - All proprietary examples based on the RAIL API.
 
 ## Supported Series 1 Devices ##
