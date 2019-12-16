@@ -13,27 +13,6 @@
 
 This repo contains example applications developed by our applications team for EFM32 and EFR32 devices. These examples are categorized by technology then series. All examples provide a .sls file to easily import into Simplicity Studio. Additionally, each example will provide the source files and instructions to port the example to other parts. Please note that these examples are provided as-is, and may not be updated in the future.
 
-## Supported Series 1 Devices ##
-- EFM32PG1
-- EFR32MG1
-- EFR32BG1
-- EFR32FG1
-- EFM32PG12
-- EFR32MG12
-- EFR32BG12
-- EFR32FG12
-- EFR32MG13
-- EFR32BG13
-- EFR32FG13
-- EFR32MG14
-- EFR32BG14
-- EFR32FG14
-- EFM32GG11
-
-## Supported Series 2 Devices ##
-- EFR32BG21
-- EFR32MG21
-
 ## Requirements ##
 1. Desired Silicon Labs Starter Kit
 2. Gecko SDK Suite, available via Simplicity Studio
@@ -43,7 +22,6 @@ This repo contains example applications developed by our applications team for E
 1. In Simplicity Studio: 
   - File -> Import
 2. Navigate to the desired .sls file
-
 
 ## Reporting Bugs/Issues and Posting Questions and Comments ##
 
