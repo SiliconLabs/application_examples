@@ -11,16 +11,19 @@
   </tr>
 </table>
 
-This repo contains example applications developed by our applications team for EFM32 and EFR32 devices. These examples are categorized by technology then series. All examples provide a .sls file to easily import into Simplicity Studio. Additionally, each example will provide the source files and instructions to port the example to other parts. Please note that these examples are provided as-is, and may not be updated in the future.
+# Silicon Labs Application Examples #
+
+This repo contains example applications developed by Silicon Labs engineers for EFM32 and EFR32 devices. These examples are categorized by technology. All examples provide a .sls file to easily import into Simplicity Studio. Additionally, each example will provide the source files and instructions to port the example to other parts. Unless otherwise specified in the directory, all examples are considered to be EXPERIMENTAL QUALITY which implies that the code provided in the repos has not been formally tested and is provided as-is.  It is not suitable for production environments.  In addition, this code will not be maintained and there may be no bug maintenance planned for these resources. Silicon Labs may update projects from time to time.
 
 ## Requirements ##
+
 1. Desired Silicon Labs Starter Kit
 2. Gecko SDK Suite, available via Simplicity Studio
 3. Simplicity Studio IDE
 
 ## How to import .sls files to Simplicity Studio IDE ##
-1. In Simplicity Studio: 
-  - File -> Import
+
+1. In Simplicity Studio, select File -> Import
 2. Navigate to the desired .sls file
 
 ## Reporting Bugs/Issues and Posting Questions and Comments ##
