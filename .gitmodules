@@ -1,0 +1,15 @@
+[submodule "bluetooth/bluetooth_applications"]
+	path = bluetooth/bluetooth_applications
+	url = https://github.com/SiliconLabs/bluetooth_applications
+[submodule "bluetooth/bluetooth_peripherals"]
+	path = bluetooth/bluetooth_peripherals
+	url = https://github.com/SiliconLabs/bluetooth_peripherals
+[submodule "bluetooth/bluetooth_stack_features"]
+	path = bluetooth/bluetooth_stack_features
+	url = https://github.com/SiliconLabs/bluetooth_stack_features
+[submodule "proprietary/proprietary_connect"]
+	path = proprietary/proprietary_connect
+	url = https://github.com/SiliconLabs/proprietary_connect
+[submodule "mcu/mcu_series1"]
+	path = mcu/mcu_series1
+	url = https://github.com/SiliconLabs/mcu_series1
