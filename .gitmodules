@@ -13,3 +13,7 @@
 [submodule "mcu/mcu_series1"]
 	path = mcu/mcu_series1
 	url = https://github.com/SiliconLabs/mcu_series1
+[submodule "iot_utilities/java_pcap_file_utilities"]
+	path = iot_utilities/java_pcap_file_utilities
+	url = https://github.com/SiliconLabs/java_pcap_file_utilities.git
+	branch = master
