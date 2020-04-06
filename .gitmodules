@@ -17,3 +17,21 @@
 	path = iot_utilities/java_pcap_file_utilities
 	url = https://github.com/SiliconLabs/java_pcap_file_utilities.git
 	branch = master
+[submodule "zigbee/zigbee_kba"]
+	path = zigbee/zigbee_kba
+	url = https://github.com/SiliconLabs/zigbee_kba.git
+	branch = master
+[submodule "zigbee/zigbee_applications"]
+	path = zigbee/zigbee_applications
+	url = https://github.com/SiliconLabs/zigbee_applications.git
+	branch = master
+[submodules "iot_utilities"]
+	branch = master
+[submodules "bluetooth/bluetooth_applications"]
+	branch = master
+[submodules "bluetooth/bluetooth_peripherals"]
+	branch = master
+[submodules "bluetooth/bluetooth_stack_features"]
+	branch = master
+[submodules "bluetooth"]
+	branch = master
