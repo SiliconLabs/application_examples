@@ -1,0 +1,36 @@
+[submodule "bluetooth/bluetooth_applications"]
+	path = bluetooth/bluetooth_applications
+	url = https://github.com/SiliconLabs/bluetooth_applications.git
+	branch = master
+[submodule "bluetooth/bluetooth_peripherals"]
+	path = bluetooth/bluetooth_peripherals
+	url = https://github.com/SiliconLabs/bluetooth_peripherals.git
+	branch = master
+[submodule "bluetooth/bluetooth_stack_features"]
+	path = bluetooth/bluetooth_stack_features
+	url = https://github.com/SiliconLabs/bluetooth_stack_features.git
+	branch = master
+[submodule "iot_utilities/java_pcap_file_utilities"]
+	path = iot_utilities/java_pcap_file_utilities
+	url = https://github.com/SiliconLabs/java_pcap_file_utilities.git
+	branch = master
+[submodule "platform/platform_applications"]
+	path = platform/platform_applications
+	url = https://github.com/SiliconLabs/platform_applications.git
+	branch = master
+[submodule "proprietary/proprietary_connect"]
+	path = proprietary/proprietary_connect
+	url = https://github.com/SiliconLabs/proprietary_connect.git
+	branch = master
+[submodule "proprietary/proprietary_rail"]
+	path = proprietary/proprietary_rail
+	url = https://github.com/SiliconLabs/proprietary_rail.git
+	branch = master
+[submodule "zigbee/zigbee_applications"]
+	path = zigbee/zigbee_applications
+	url = https://github.com/SiliconLabs/zigbee_applications.git
+	branch = master
+[submodule "zigbee/zigbee_peripheral"]
+	path = zigbee/zigbee_peripheral
+	url = https://github.com/SiliconLabs/zigbee_peripheral.git
+	branch = master
