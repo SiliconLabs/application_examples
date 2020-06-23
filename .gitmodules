@@ -34,3 +34,11 @@
 	path = zigbee/zigbee_peripheral
 	url = https://github.com/SiliconLabs/zigbee_peripheral.git
 	branch = master
+[submodule "platform/peripheral_examples"]
+	path = platform/peripheral_examples
+	url = https://github.com/SiliconLabs/peripheral_examples.git
+	branch = master
+[submodule "z_wave/z_wave_applications"]
+	path = z_wave/z_wave_applications
+	url = https://github.com/SiliconLabs/z_wave_applications
+	branch = master
