@@ -47,6 +47,8 @@ Silicon Labs' Bluetooth chipsets deliver high performance, low energy and easy-t
 
 - EFR32MG21
 - EFR32BG21
+- EFR32MG22
+- EFR32BG22
 
 ## Documentation ##
 

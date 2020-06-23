@@ -17,9 +17,6 @@ Our diverse sensor product portfolio includes optical sensors, digital I²C rela
 
 ## Submodules ##
 
-- sensors\_optical
-  - Examples that demonstrate the use of Silicon Labs optical sensors.
-
 ## Documentation ##
 
 Official documentation can be found at our [Technical Resource](https://www.silabs.com/support/resources.p-sensors) page.

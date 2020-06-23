@@ -17,8 +17,10 @@ Our energy-friendly EFM32 and EFR32 microcontrollers (MCUs) are ideal for ultra-
 
 ## Submodules ##
 
+- peripheral_examples
+  - Examples that demonstrate the peripherals of Silicon Labs Series 0, Series 1, and Series 2 devices.
 - platform_applications
-  - MCU examples made for EFM and EFR series 1 devices.
+  - Platform examples made for EFM and EFR devices.
 
 ## Supported Series 0 Devices ##
 

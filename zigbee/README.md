@@ -19,8 +19,6 @@ As a leading provider of Zigbee solutions with decades of experience, Silicon La
 
 - zigbee\_applications
   - Examples that show applications that can be created on top of the Silicon Labs Zigbee stack.
-- zigbee\_kba
-  - Examples that are made in conjunction with Zigbee knowledge base articles.
 - zigbee\_peripheral
   - Examples that demonstrate how to use MCU peripherals with the Silicon Labs Zigbee stack.
 
@@ -34,6 +32,7 @@ As a leading provider of Zigbee solutions with decades of experience, Silicon La
 ## Series 2 Devices ##
 
 - EFR32MG21
+- EFR32MG22
 
 ## Documentation ##
 
