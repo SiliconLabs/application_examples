@@ -42,3 +42,7 @@
 	path = zigbee/zigbee_peripherals
 	url = https://github.com/SiliconLabs/zigbee_peripherals.git
 	branch = master
+[submodule "training/training_examples"]
+	path = training/training_examples
+	url = https://github.com/SiliconLabs/training_examples.git
+	branch = master
