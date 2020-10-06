@@ -11,9 +11,9 @@
   </tr>
 </table>
 
-# Silicon Labs Middlware #
+# Silicon Labs Middleware #
 
-This folder contains middleware that can be used with Silicon Labs products. These libraries can used to provide additional capabilities to your application.
+This folder contains middleware that can be used with Silicon Labs products. These libraries can be used to provide additional capabilities to your application.
 
 ## Submodules ##
 
