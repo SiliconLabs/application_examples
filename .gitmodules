@@ -46,3 +46,6 @@
 	path = training/training_examples
 	url = https://github.com/SiliconLabs/training_examples.git
 	branch = master
+[submodule "platform/platform_hardware_drivers"]
+	path = platform/platform_hardware_drivers
+	url = https://github.com/SiliconLabs/platform_hardware_drivers.git
