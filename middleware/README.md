@@ -17,6 +17,8 @@ This folder contains middleware that can be used with Silicon Labs products. The
 
 ## Submodules ##
 
+- nfc
+
 ## Documentation ##
 
 Official documentation can be found at our [Developer Documentation](https://docs.silabs.com/) page.
