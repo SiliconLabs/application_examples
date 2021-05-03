@@ -53,3 +53,6 @@
 	path = middleware/nfc
 	url = https://github.com/SiliconLabs/nfc.git
 	branch = master
+[submodule "bluetooth/bluetooth_mesh_stack_features"]
+	path = bluetooth/bluetooth_mesh_stack_features
+	url = https://github.com/SiliconLabs/bluetooth_mesh_stack_features
