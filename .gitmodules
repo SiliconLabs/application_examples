@@ -49,6 +49,7 @@
 [submodule "platform/platform_hardware_drivers"]
 	path = platform/platform_hardware_drivers
 	url = https://github.com/SiliconLabs/platform_hardware_drivers.git
+	branch = master
 [submodule "middleware/nfc"]
 	path = middleware/nfc
 	url = https://github.com/SiliconLabs/nfc.git
