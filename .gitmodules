@@ -62,3 +62,6 @@
 	path = bluetooth/bluetooth_mesh_stack_features
 	url = https://github.com/SiliconLabs/bluetooth_mesh_stack_features.git
 	branch = master
+[submodule "iot_utilities\\host_utilities"]
+	path = iot_utilities\\host_utilities
+	url = https://github.com/SiliconLabs/host_utilities.git
