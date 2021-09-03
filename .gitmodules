@@ -14,6 +14,10 @@
 	path = iot_utilities/java_pcap_file_utilities
 	url = https://github.com/SiliconLabs/java_pcap_file_utilities.git
 	branch = master
+[submodule "iot_utilities/host_utilities"]
+	path = iot_utilities/host_utilities
+	url = https://github.com/SiliconLabs/host_utilities.git
+	branch = master
 [submodule "platform/platform_applications"]
 	path = platform/platform_applications
 	url = https://github.com/SiliconLabs/platform_applications.git
