@@ -62,3 +62,7 @@
 	path = bluetooth/bluetooth_mesh_stack_features
 	url = https://github.com/SiliconLabs/bluetooth_mesh_stack_features.git
 	branch = master
+[submodule "wifi/wifi_combo_applications"]
+	path = wifi/wifi_combo_applications
+	url = https://github.com/SiliconLabs/wifi_combo_applications.git
+	branch = master
