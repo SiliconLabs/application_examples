@@ -62,3 +62,6 @@
 	path = wifi/wifi_combo_applications
 	url = https://github.com/SiliconLabs/wifi_combo_applications.git
 	branch = master
+[submodule "openthread/openthread_applications"]
+	path = openthread/openthread_applications
+	url = https://github.com/SiliconLabs/openthread_applications.git
