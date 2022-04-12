@@ -65,3 +65,4 @@
 [submodule "openthread/openthread_applications"]
 	path = openthread/openthread_applications
 	url = https://github.com/SiliconLabs/openthread_applications.git
+	branch = master
