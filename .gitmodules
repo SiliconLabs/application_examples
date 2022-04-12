@@ -66,3 +66,7 @@
 	path = openthread/openthread_applications
 	url = https://github.com/SiliconLabs/openthread_applications.git
 	branch = master
+[submodule "matter/matter_applications"]
+	path = matter/matter_applications
+	url = https://github.com/SiliconLabs/matter_applications.git
+	branch = master
