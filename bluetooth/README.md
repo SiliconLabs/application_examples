@@ -31,6 +31,10 @@ Silicon Labs' Bluetooth chipsets deliver high performance, low energy and easy-t
     - Firmware Upgrade
     - NCP
     - System and Performance
+- bluetooth\_mesh\_applications
+  - Examples that use the Bluetooth Mesh stack to implement complete applications.
+- bluetooth\_mesh_stack\_features
+  - Examples that highlight stack handling of the Bluetooth Mesh specification.
 
 ## Supported Series 1 Devices ##
 
