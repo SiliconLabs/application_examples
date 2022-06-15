@@ -10,6 +10,14 @@
 	path = bluetooth/bluetooth_stack_features
 	url = https://github.com/SiliconLabs/bluetooth_stack_features.git
 	branch = master
+[submodule "bluetooth/bluetooth_mesh_applications"]
+	path = bluetooth/bluetooth_mesh_applications
+	url = https://github.com/SiliconLabs/bluetooth_mesh_applications.git
+	branch = master
+[submodule "bluetooth/bluetooth_mesh_stack_features"]
+	path = bluetooth/bluetooth_mesh_stack_features
+	url = https://github.com/SiliconLabs/bluetooth_mesh_stack_features.git
+	branch = master
 [submodule "iot_utilities/java_pcap_file_utilities"]
 	path = iot_utilities/java_pcap_file_utilities
 	url = https://github.com/SiliconLabs/java_pcap_file_utilities.git
@@ -53,10 +61,6 @@
 [submodule "middleware/nfc"]
 	path = middleware/nfc
 	url = https://github.com/SiliconLabs/nfc.git
-	branch = master
-[submodule "bluetooth/bluetooth_mesh_stack_features"]
-	path = bluetooth/bluetooth_mesh_stack_features
-	url = https://github.com/SiliconLabs/bluetooth_mesh_stack_features.git
 	branch = master
 [submodule "wifi/wifi_combo_applications"]
 	path = wifi/wifi_combo_applications
