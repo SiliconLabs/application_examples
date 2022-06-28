@@ -15,6 +15,14 @@
 
 This repo contains example applications developed by Silicon Labs engineers for EFM32 and EFR32 devices. These examples are categorized by technology. All examples provide a .sls file to easily import into Simplicity Studio. Additionally, each example will provide the source files and instructions to port the example to other parts. Unless otherwise specified in the directory, all examples are considered to be EXPERIMENTAL QUALITY which implies that the code provided in the repos has not been formally tested and is provided as-is.  It is not suitable for production environments.  In addition, this code will not be maintained and there may be no bug maintenance planned for these resources. Silicon Labs may update projects from time to time.
 
+## Table of Contents ##
+
+This repo is organized into several submodule repos by technology. A comprehensive list of sample code projects is provided in the following pages:
+
+1. [Table of Contents by Hardware Driver Class](toc_hwdrv.md)
+2. [Table of Contents by Wireless Use Case](toc_wl_use_case.md)
+3. [Table of Contents by Market Segment Application](toc_msar.md)
+
 ## Requirements ##
 
 1. Desired Silicon Labs Starter Kit
