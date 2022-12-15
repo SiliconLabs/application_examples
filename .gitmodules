@@ -75,6 +75,6 @@
 	url = https://github.com/SiliconLabs/matter_applications.git
 	branch = master
 [submodule "platform/platform_hardware_drivers_sdk_extensions"]
-	path = platform/platform_hardware_drivers_sdk_extensions
-	url = https://github.com/SiliconLabs/platform_hardware_drivers_sdk_extensions.git
+	path = platform/third_party_hw_drivers_extension
+	url = https://github.com/SiliconLabs/third_party_hw_drivers_extension.git
 	branch = master
