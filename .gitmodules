@@ -78,3 +78,7 @@
 	path = platform/third_party_hw_drivers_extension
 	url = https://github.com/SiliconLabs/third_party_hw_drivers_extension.git
 	branch = master
+[submodule "hardware/hardware_design_examples"]
+	path = hardware/hardware_design_examples
+	url = https://github.com/SiliconLabs/hardware_design_examples.git
+	branch = master
