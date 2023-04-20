@@ -82,3 +82,7 @@
 	path = hardware/hardware_design_examples
 	url = https://github.com/SiliconLabs/hardware_design_examples.git
 	branch = master
+[submodule "circuitpython/circuitpython_applications"]
+	path = circuitpython/circuitpython_applications
+	url = https://github.com/SiliconLabs/circuitpython_applications.git
+	branch = main
