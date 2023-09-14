@@ -86,3 +86,7 @@
 	path = circuitpython/circuitpython_applications
 	url = https://github.com/SiliconLabs/circuitpython_applications.git
 	branch = main
+[submodule "zephyr/zephyr_applications"]
+	path = zephyr/zephyr_applications
+	url = https://github.com/SiliconLabs/zephyr_applications.git
+	branch = main
