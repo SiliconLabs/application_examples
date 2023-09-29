@@ -90,3 +90,7 @@
 	path = zephyr/zephyr_applications
 	url = https://github.com/SiliconLabs/zephyr_applications.git
 	branch = main
+[submodule "wisun/wisun_applications"]
+	path = wisun/wisun_applications
+	url = https://github.com/SiliconLabs/wisun_applications.git
+	branch = main
