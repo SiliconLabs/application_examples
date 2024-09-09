@@ -94,3 +94,7 @@
 	path = wisun/wisun_applications
 	url = https://github.com/SiliconLabs/wisun_applications.git
 	branch = main
+[submodule "platform/peripheral_examples_simplicity_sdk"]
+	path = platform/peripheral_examples_simplicity_sdk
+	url = https://github.com/SiliconLabs/peripheral_examples_simplicity_sdk.git
+	branch = main
