@@ -98,3 +98,7 @@
 	path = platform/peripheral_examples_simplicity_sdk
 	url = https://github.com/SiliconLabs/peripheral_examples_simplicity_sdk.git
 	branch = main
+[submodule "energy_harvesting/energy_harvesting_applications"]
+	path = energy_harvesting/energy_harvesting_applications
+	url = https://github.com/SiliconLabs/energy_harvesting_applications.git
+	branch = main
