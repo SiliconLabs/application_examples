@@ -101,3 +101,4 @@
 [submodule "circuitpython/circuitpython_applications"]
 	path = circuitpython/circuitpython_applications
 	url = https://github.com/SiliconLabsSoftware/circuitpython_applications.git
+	branch = main
