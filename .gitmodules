@@ -82,10 +82,6 @@
 	path = hardware/hardware_design_examples
 	url = https://github.com/SiliconLabs/hardware_design_examples.git
 	branch = master
-[submodule "circuitpython/circuitpython_applications"]
-	path = circuitpython/circuitpython_applications
-	url = https://github.com/SiliconLabs/circuitpython_applications.git
-	branch = main
 [submodule "zephyr/zephyr_applications"]
 	path = zephyr/zephyr_applications
 	url = https://github.com/SiliconLabs/zephyr_applications.git
@@ -102,3 +98,6 @@
 	path = energy_harvesting/energy_harvesting_applications
 	url = https://github.com/SiliconLabs/energy_harvesting_applications.git
 	branch = main
+[submodule "circuitpython/circuitpython_applications"]
+	path = circuitpython/circuitpython_applications
+	url = https://github.com/SiliconLabsSoftware/circuitpython_applications.git
